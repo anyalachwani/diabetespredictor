@@ -1,2 +1,2 @@
 # diabetespredictor
-Diabetes risk predictor
+Diabetes risk predictor (Code Written in R)
